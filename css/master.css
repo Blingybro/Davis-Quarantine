@@ -1,0 +1,18 @@
+/* This is where my CSS styles are going to go! */
+#flashing{
+animation-duration: 5s;
+animation-iteration-count: infinite;
+}
+#Popup:hover{
+  animation-iteration-count: infinite;
+}
+body{
+  background-color:#29e8f2
+}
+#headerbannerthing{
+  color:#509e4a;
+}
+.symbol{
+   height: 150px;
+   width: 100%;
+}
